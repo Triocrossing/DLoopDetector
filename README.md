@@ -1,9 +1,10 @@
 DLoopDetector
 =============
 
+Modified version of DLoopDetector for reading binary BRIEF voacbulary, it accelerates a lot the vocabulary loading procedure.
+
 ## Overview
 See origin repository for more details [dorian3d/DLoopDetector](https://github.com/dorian3d/DLoopDetector)
-Modified version of DLoopDetector for reading binary BRIEF voacbulary. 
 More details refer to VINS-MONO relocalization.([Binary Vocabulary File](https://github.com/HKUST-Aerial-Robotics/VINS-Mono/tree/master/support_files))
 
 Compare to original version 3 files are modified:
